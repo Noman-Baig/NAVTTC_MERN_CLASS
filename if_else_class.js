@@ -14,12 +14,3 @@ if (age < 13) {
   console.log("Senior Citizen");
 }
 
-
-console.log(a + b); 
-console.log(a - b);   
-console.log(a * b);  
-console.log(a / b);  
-console.log(a % b);   
-console.log(a ** b);  
-console.log(a++);      
-console.log(b--);  
